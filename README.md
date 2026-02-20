@@ -42,8 +42,15 @@ Crear un asistente de cocina práctico que:
 > Para poder utilizar o probar es necesario que introduzcas tu clave API de Gemini en .streamlit/secrets.toml.
 > Si quieres probarlo pero no tienes API, puedes contactarme para ver el funcionamiento!
 
-
-
+## Capturas del proyecto
+### Pantalla principal
+![Pantalla principal](assets/homepage.png)
+### Receta generada
+![Receta generada](assets/receta.png)
+### Recetario
+![Recetario](assets/recetario.png)
+### Respuesta del usuario a la receta
+![Respuesta](assets/like-dislike.png)
 
 
 ## Roadmap
